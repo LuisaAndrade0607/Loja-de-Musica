@@ -1,0 +1,42 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Dancing Script', cursive;
+}
+
+header{
+    padding: 25px;
+    position: fixed;
+    background-color: rgb(1, 114, 1);
+    width: 100%;
+    top: 0%;
+}
+
+nav{
+    display: inline-block;
+    width: 100%;
+    position: relative;
+
+}
+.menu{
+    text-decoration: none;
+    color:white;
+    display: inline-block;
+    position: relative;
+    width: 30%;
+    right: 10px;
+    
+}
+
+main{
+    margin-top: 157px;
+
+}
+
+.icone{
+    width: 25px;
+    height: 25px;
+    margin-right: 5px;
+}
+
